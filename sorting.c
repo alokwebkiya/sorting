@@ -26,7 +26,7 @@
 void main ()    
 {    
     int i, j,temp;     
-    int a[5] = { 10, 35, 32, 13, 26};     
+    int a[10] = { 10, 35, 32, 13, 26, 56, 12, 24, 11, 10};     
     int n = sizeof(a)/sizeof(a[0]);   
     printf("Before sorting array elements are - \n");  
     print(a, n);  
